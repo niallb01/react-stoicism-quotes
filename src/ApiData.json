@@ -1,0 +1,113 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 1,
+      "body": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+      "author_id": 1,
+      "author": "Marcus Aurelius"
+    },
+    {
+      "id": 2,
+      "body": "Luck is what happens when preparation meets opportunity.",
+      "author_id": 2,
+      "author": "Seneca"
+    },
+    {
+      "id": 3,
+      "body": "It is impossible for a man to learn what he thinks he already knows.",
+      "author_id": 3,
+      "author": "Epictetus"
+    },
+    {
+      "id": 4,
+      "body": "The best answer to anger is silence.",
+      "author_id": 1,
+      "author": "Marcus Aurelius"
+    },
+    {
+      "id": 5,
+      "body": "Begin at once to live, and count each separate day as a separate life.",
+      "author_id": 2,
+      "author": "Seneca"
+    },
+    {
+      "id": 6,
+      "body": "They lose the day in expectation of the night, and the night in fear of the dawn.",
+      "author_id": 2,
+      "author": "Seneca"
+    },
+    {
+      "id": 7,
+      "body": "Better to trip with the feet than with the tongue.",
+      "author_id": 5,
+      "author": "Zeno"
+    },
+    {
+      "id": 8,
+      "body": "No man is free who is not master of himself.",
+      "author_id": 3,
+      "author": "Epictetus"
+    },
+    {
+      "id": 9,
+      "body": "How ridiculous and how strange to be surprised at anything which happens in life.",
+      "author_id": 1,
+      "author": "Marcus Aurelius"
+    },
+    {
+      "id": 10,
+      "body": "Be tolerant with others and strict with yourself.",
+      "author_id": 1,
+      "author": "Marcus Aurelius"
+    }
+  ],
+  "first_page_url": "http://stoicquotesapi.com/api/quotes?page=1",
+  "from": 1,
+  "last_page": 6,
+  "last_page_url": "http://stoicquotesapi.com/api/quotes?page=6",
+  "links": [
+    { "url": null, "label": "&laquo; Previous", "active": false },
+    {
+      "url": "http://stoicquotesapi.com/api/quotes?page=1",
+      "label": 1,
+      "active": true
+    },
+    {
+      "url": "http://stoicquotesapi.com/api/quotes?page=2",
+      "label": 2,
+      "active": false
+    },
+    {
+      "url": "http://stoicquotesapi.com/api/quotes?page=3",
+      "label": 3,
+      "active": false
+    },
+    {
+      "url": "http://stoicquotesapi.com/api/quotes?page=4",
+      "label": 4,
+      "active": false
+    },
+    {
+      "url": "http://stoicquotesapi.com/api/quotes?page=5",
+      "label": 5,
+      "active": false
+    },
+    {
+      "url": "http://stoicquotesapi.com/api/quotes?page=6",
+      "label": 6,
+      "active": false
+    },
+    {
+      "url": "http://stoicquotesapi.com/api/quotes?page=2",
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": "http://stoicquotesapi.com/api/quotes?page=2",
+  "path": "http://stoicquotesapi.com/api/quotes",
+  "per_page": 10,
+  "prev_page_url": null,
+  "to": 10,
+  "total": 59
+}

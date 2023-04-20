@@ -1,0 +1,356 @@
+[
+  {
+    "id": 1,
+    "body": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 2,
+    "body": "Luck is what happens when preparation meets opportunity.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 3,
+    "body": "It is impossible for a man to learn what he thinks he already knows.",
+    "author_id": 3,
+    "author": "Epictetus"
+  },
+  {
+    "id": 4,
+    "body": "The best answer to anger is silence.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 5,
+    "body": "Begin at once to live, and count each separate day as a separate life.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 6,
+    "body": "They lose the day in expectation of the night, and the night in fear of the dawn.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 7,
+    "body": "Better to trip with the feet than with the tongue.",
+    "author_id": 5,
+    "author": "Zeno"
+  },
+  {
+    "id": 8,
+    "body": "No man is free who is not master of himself.",
+    "author_id": 3,
+    "author": "Epictetus"
+  },
+  {
+    "id": 9,
+    "body": "How ridiculous and how strange to be surprised at anything which happens in life.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 10,
+    "body": "Be tolerant with others and strict with yourself.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 11,
+    "body": "Reject your sense of injury and the injury itself disappears.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 12,
+    "body": "Sometimes even to live is an act of courage.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 13,
+    "body": "Wealth is the slave of the wise. The master of the fool.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 14,
+    "body": "He suffers more than necessary, who suffers before it is necessary.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 15,
+    "body": "It is not that we have so little time but that we lose so much. ... The life we receive is not short but we make it so; we are not ill provided but use what we have wastefully.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 16,
+    "body": "It is the power of the mind to be unconquerable.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 17,
+    "body": "It is not the man who has too little, but the man who craves more, that is poor.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 18,
+    "body": "You act like mortals in all that you fear, and like immortals in all that you desire.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 19,
+    "body": "Receive without conceit, release without struggle.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 20,
+    "body": "Be content to seem what you really are.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 21,
+    "body": "The soul becomes dyed with the color of its thoughts.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 22,
+    "body": "Man conquers the world by conquering himself.",
+    "author_id": 5,
+    "author": "Zeno"
+  },
+  {
+    "id": 23,
+    "body": "Waste no more time arguing about what a good man should be. Be one.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 24,
+    "body": "Whoever does not regard what he has as most ample wealth, is unhappy, though he be master of the world.",
+    "author_id": 3,
+    "author": "Epictetus"
+  },
+  {
+    "id": 25,
+    "body": "The worst ruler is one who cannot rule himself.",
+    "author_id": 4,
+    "author": "Cato"
+  },
+  {
+    "id": 26,
+    "body": "We have two ears and one mouth, so we should listen more than we say.",
+    "author_id": 5,
+    "author": "Zeno"
+  },
+  {
+    "id": 27,
+    "body": "The goal of life is living in agreement with Nature.",
+    "author_id": 5,
+    "author": "Zeno"
+  },
+  {
+    "id": 28,
+    "body": "Well-being is attained little by little, and nevertheless is no little thing itself.",
+    "author_id": 5,
+    "author": "Zeno"
+  },
+  {
+    "id": 29,
+    "body": "The more we value things outside our control, the less control we have.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 30,
+    "body": "It is not events that disturb people, it is their judgements concerning them.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 31,
+    "body": "To love only what happens, what was destined. No greater harmony.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 32,
+    "body": "True happiness is to enjoy the present, without anxious dependence upon the future, not to amuse ourselves with either hopes or fears but to rest satisfied with what we have, which is sufficient, for he that is so, wants nothing.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 33,
+    "body": "Throw me to the wolves and I will return leading the pack.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 34,
+    "body": "Difficulties strengthen the mind, as labor does the body",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 35,
+    "body": "Associate with people who are likely to improve you.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 36,
+    "body": "Man is affected not by events but by the view he takes of them.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 37,
+    "body": "We suffer more often in imagination than in reality.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 38,
+    "body": "You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 39,
+    "body": "Time heals what reason cannot.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 40,
+    "body": "The greatest blessings of mankind are within us and within our reach. A wise man is content with his lot, whatever it may be, without wishing for what he has not..",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 41,
+    "body": "Hang on to your youthful enthusiasms - you'll be able to use them better when you're older.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 42,
+    "body": "If a man knows not to which port he sails, no wind is favorable.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 43,
+    "body": "The bravest sight in the world is to see a great man struggling against adversity.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 44,
+    "body": "Until we have begun to go without them, we fail to realize how unnecessary many things are. We've been using them not because we needed them but because we had them.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 45,
+    "body": "Life is never incomplete if it is an honorable one. At whatever point you leave life, if you leave it in the right way, it is whole.",
+    "author_id": 2,
+    "author": "Seneca"
+  },
+  {
+    "id": 46,
+    "body": "He who follows reason in all things is both tranquil and active at the same time, and also cheerful and collected.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 47,
+    "body": "You're subject to sorrow, fear, jealousy, anger and inconsistency. That's the real reason you should admit that you are not wise.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 48,
+    "body": "Receive without pride, let go without attachment.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 49,
+    "body": "I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinions of himself than on the opinions of others.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 50,
+    "body": "Today I escaped anxiety. Or no, I discarded it, because it was within me, in my own perceptions - not outside.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 51,
+    "body": "If it's not right, don't do it. If it's not true, don't say it.",
+    "author_id": 1,
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 52,
+    "body": "We have two ears and one mouth, therefore we should listen twice as much as we speak.",
+    "author_id": 5,
+    "author": "Zeno"
+  },
+  {
+    "id": 53,
+    "body": "Who is your master? Anyone who has control over things upon which you've set your heart, or over things which you seek to avoid.",
+    "author_id": 3,
+    "author": "Epictetus"
+  },
+  {
+    "id": 54,
+    "body": "You are not your body and hair-style, but your capacity for choosing well. If your choices are beautiful, so too will you be.",
+    "author_id": 3,
+    "author": "Epictetus"
+  },
+  {
+    "id": 55,
+    "body": "Circumstances don't make the man, they only reveal him to himself.",
+    "author_id": 3,
+    "author": "Epictetus"
+  },
+  {
+    "id": 56,
+    "body": "We are not privy to the stories behind people's actions, so we should be patient with others and suspend judgement of them, recognizing the limits of our understanding.",
+    "author_id": 3,
+    "author": "Epictetus"
+  },
+  {
+    "id": 57,
+    "body": "In prosperity it is very easy to find a friend; but in adversity it is the most difficult of all things.",
+    "author_id": 3,
+    "author": "Epictetus"
+  },
+  {
+    "id": 58,
+    "body": "Deliberate much before saying or doing anything, for you will not have the power of recalling what is said or done.",
+    "author_id": 3,
+    "author": "Epictetus"
+  },
+  {
+    "id": 59,
+    "body": "He who is not happy with little will never be happy with much.",
+    "author_id": 3,
+    "author": "Epictetus"
+  }
+]

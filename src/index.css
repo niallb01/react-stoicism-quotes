@@ -1,0 +1,178 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #23272f;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  font-weight: 300;
+  font-size: 30px;
+  width: fit-content;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 25px;
+  letter-spacing: 0.1em;
+  position: center;
+  color: #cbcbcb;
+}
+
+p {
+  font-size: 18px;
+}
+
+.navbar {
+  display: flex;
+  list-style-type: none;
+  text-decoration: none;
+  letter-spacing: 0.1em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 150;
+}
+
+.random-quote-text {
+  font-size: 25px;
+  width: 100%;
+  color: #fff;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 20px;
+  list-style-type: none;
+}
+
+a {
+  color: #fff;
+}
+
+a:hover {
+  color: #0a7ea3;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+p {
+  letter-spacing: 0.1em;
+  font-weight: 200;
+  text-align: center;
+  padding: 40px;
+  color: #fff;
+}
+
+.quote-author {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+  width: 100%;
+}
+
+.author-text {
+  text-align: right;
+  padding: 1px;
+  padding-right: 80px;
+  margin-top: 10px;
+  font-size: 25px;
+  color: #fff;
+}
+
+.quote-header {
+  margin: 30px;
+}
+
+.random-button,
+button,
+select {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  letter-spacing: 0.1em;
+  width: 130px;
+  height: 40px;
+  padding: 5px;
+  transition: ease-out 0.3s;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: #fff;
+  background-color: #333a45;
+}
+
+.random-button {
+  height: 45px;
+  border: #fff;
+  color: #fff;
+  font-weight: 400;
+  background-color: #0a7ea3;
+  border-radius: 10px;
+}
+
+.random-button,
+select {
+  margin: 60px;
+}
+
+.choose-author-btn {
+  margin-top: 40px;
+  margin-bottom: 25px;
+  color: #fff;
+  border: #fff;
+  background-color: #0a7ea3;
+  border-radius: 10px;
+}
+
+.choose-author-btn {
+  border: #fff;
+}
+
+.random-button:hover,
+select:hover,
+button:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+select {
+  width: 320px;
+  color: #fff;
+  border-radius: 5px;
+}
+
+@media (max-width: 600px) {
+  .header {
+    text-align: center;
+    padding-bottom: 40px;
+  }
+  textarea {
+    width: 100%;
+    height: 100px;
+    width: 400px;
+  }
+  ul {
+    gap: 10px;
+  }
+  img {
+    width: 20%;
+  }
+}
