@@ -1,1 +1,4 @@
-/random-quotes
+
+  from = "/"
+  to = "/random-quotes"
+
