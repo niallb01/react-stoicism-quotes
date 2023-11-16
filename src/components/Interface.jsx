@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./Navbar";
 import RandomQuotes from "./RandomQuotes";
 import AuthorQuotes from "./AuthorQuotes";
-import { Route, Switch, Link } from "react-router-dom";
+import { Route, Switch, Link, Redirect } from "react-router-dom";
 import AboutAuthor from "./AboutAuthor";
 
 const Interface = (props) => {
@@ -13,14 +13,15 @@ const Interface = (props) => {
     <>
       <div className="container">
         <h1 className="header">
-          <Link className="header-text" to="/randomquotes">
+          <Link className="header-text" to="/home">
             Stoicism Quotes
           </Link>
         </h1>
         <Navbar />
         <Switch>
+          {<Redirect exact from="/" to="/home" />}
           <Route
-            path="/randomquotes"
+            path="/home"
             render={(props) => (
               <RandomQuotes
                 getRandomQuote={getRandomQuote}

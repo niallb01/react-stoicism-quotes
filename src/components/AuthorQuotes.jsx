@@ -3,7 +3,6 @@ const AuthorQuotes = (props) => {
     window.scrollTo(0, 0);
   };
   const { getByAuthor, authorQuotes } = props;
-  console.log(props);
   return (
     <>
       <select onChange={getByAuthor}>
