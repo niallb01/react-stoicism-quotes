@@ -4,7 +4,12 @@ const AboutAuthor = () => {
   return (
     <>
       {data.map((item) => {
-        return <p key={item}>{`"${item}"`}</p>;
+        return (
+          <p className="about-auth" key={item}>
+            <img className="about-img" src={item.image} alt="Philosopher" />
+            {`"${item.text}"`}
+          </p>
+        );
       })}
     </>
   );
