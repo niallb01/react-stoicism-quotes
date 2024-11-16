@@ -4,7 +4,6 @@ import RandomQuotes from "./RandomQuotes";
 import AuthorQuotes from "./AuthorQuotes";
 import { Route, Switch, Link, Redirect } from "react-router-dom";
 import AboutAuthor from "./AboutAuthor";
-import Footer from "./Footer";
 
 const Interface = (props) => {
   const { randomQuote, randomQuoteAuthor, authorQuotes } = props.interface;
@@ -42,7 +41,6 @@ const Interface = (props) => {
           />
           <Route path="/about" render={(props) => <AboutAuthor />} />
         </Switch>
-        {/* <Footer /> */}
       </div>
     </>
   );

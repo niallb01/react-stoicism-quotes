@@ -196,22 +196,20 @@ select {
   ul {
     gap: 10px;
   }
-  img {
+  /* img {
     width: 20%;
-  }
-  /* .about-img {
-    width: 10%;
-    margin-bottom: 10px;
   } */
+  .about-img {
+    width: 20%;
+    margin-bottom: 10px;
+  }
 }
 
-@media (max-width: 370px) {
-  /* .about-img {
-    width: 10%;
+@media (max-width: 380px) {
+  /* img {
+    width: 20%;
+  } */
+  .about-img {
     margin-bottom: 10px;
-  } */
-  /* .about-auth {
-    display: flex;
-    flex-direction: column;
-  } */
+  }
 }
